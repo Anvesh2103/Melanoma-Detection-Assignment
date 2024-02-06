@@ -96,7 +96,7 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
 <!-- This project is Assignment given Under IIT-B & Upgrad In Deep Learning Specialization.-->
 
 ### Acknowledgement:
-This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
+This Project Assignment is part of Curriculum during **EPGP-DataScience AI-ML from IIIT-B.**
 
 ***@All Rights Reserved*** [**Anvesh Audichya**](https://github.com/Anvesh2103)
 
